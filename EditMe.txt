@@ -1,4 +1,4 @@
-leave a message in a new bullet point here! 
+	- Bill was here. Hello World
 	- this is the first bullet point, added by nathanael foley!!
 	- second bullet point, brad gabrenya was officially here.
 	- oh good god not the bees Greyson was here
